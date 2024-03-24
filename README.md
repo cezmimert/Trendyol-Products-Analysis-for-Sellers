@@ -1,1 +1,1 @@
-# Trendyol-Products-Analysis-for-Sellers
+# Trendyol product analysis for sellers looking for opportunities with Python
